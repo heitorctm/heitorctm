@@ -1,4 +1,4 @@
-# Hi, I'm Heitor Teixeira 👋
+# Hi, I'm Heitor Teixeira
 
 **Analytics Engineer | Data & AI**
 Fortaleza, CE, Brasil
@@ -9,7 +9,7 @@ Currently building data platforms at **Axionics** and pursuing an **MBA in Data 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Data Engineering & Analytics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,7 +35,7 @@ Currently building data platforms at **Axionics** and pursuing an **MBA in Data 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🦴 Bone Age Estimation (X-Ray AI)
 End-to-end ML model for bone age estimation from wrist radiographs. Includes sex embedding for physiological differentiation, data augmentation, and validation with medical specialists. Research published at **CBIS 2024**.
@@ -54,7 +54,7 @@ Real-time monitoring platform for photovoltaic plants integrating inverter, logg
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Period | Role | Company |
 |--------|------|---------|
@@ -64,8 +64,8 @@ Real-time monitoring platform for photovoltaic plants integrating inverter, logg
 
 ---
 
-## 📫 Contact
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/heitorctmba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/heitorctmb)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heitorctmba)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:heitort@gmail.com)
+
