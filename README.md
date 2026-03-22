@@ -1,6 +1,6 @@
 # Heitor de Castro Teixeira
 
-**Analytics Engineer | Data & AI**
+**Analytics Engineer | Data & AI**<br>
 Fortaleza, CE, Brasil
 
 From Civil Engineering to Data & AI, I design end-to-end data solutions: from raw ingestion and analytical modeling to machine learning, LLM integrations, and real-time dashboards.
