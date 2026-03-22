@@ -1,4 +1,4 @@
-# Hi, I'm Heitor Teixeira
+# Heitor de Castro Teixeira
 
 **Analytics Engineer | Data & AI**
 Fortaleza, CE, Brasil
