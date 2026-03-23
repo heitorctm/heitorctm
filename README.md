@@ -49,9 +49,6 @@ Full-stack IoT system for elderly fall prevention. ESP32 firmware for real-time 
 Technical lead on a burn classification system using SAM (Segment Anything Model) for pre-classification noise reduction. Built the full data cleaning pipeline, including duplicate image detection and removal.
 🔗 [Coverage](https://unifor.br/web/pos-graduacao/-/578841-1)
 
-### ☀️ Solar Plant Monitoring (Axionics / Grid Co)
-Real-time monitoring platform for photovoltaic plants integrating inverter, logger, and weather station data. Analytical modeling with dbt, operational dashboards in Grafana, and automated LLM-generated reports.
-
 ---
 
 ## Experience
