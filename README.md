@@ -38,6 +38,12 @@ Currently building data platforms at **Axionics** and pursuing an **MBA in Data 
 
 ## Featured Projects
 
+### ☀️ Nexus Grid — Solar Energy Observability Platform
+
+Data platform and dashboards for photovoltaic plant monitoring. Built analytical layers with dbt (RAW → STG → INT → MART), documented business rules, and delivered real-time operational dashboards with Grafana and PostgreSQL.
+
+[dbt / transformations and documentation](https://github.com/heitorctmba/PROJ-05-nexus_grid_dbt) · [dashboards / analytical consumption](https://github.com/heitorctmba/PROJ-06-nexus_grid_dashboards)
+
 ### 🦴 Bone Age Estimation (X-Ray AI)
 End-to-end ML model for bone age estimation from wrist radiographs. Includes sex embedding for physiological differentiation, data augmentation, and validation with medical specialists. Research published at **CBIS 2024**.
 🔗 [Paper](https://jhi.sbis.org.br/index.php/jhi-sbis/article/view/1382) · [Coverage](https://unifor.br/web/pesquisa-inovacao/-/pesquisadores-do-tec-unifor-desenvolvem-ia-para-avaliar-idade-ossea-em-exames-de-raio-x)
