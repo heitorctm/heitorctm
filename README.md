@@ -9,6 +9,17 @@ Currently building data platforms at **Axionics** and pursuing an **MBA in Data 
 
 ---
 
+## Repository Prefixes
+
+To keep my GitHub organized, I use the following repository prefixes:
+
+- `PROJ` — applied projects and professional work
+- `MBA` — academic work from my MBA in Data Science
+- `TRN` — training, exercises, and study-oriented repositories
+- `CRS` — courses and workshops I have taught
+
+---
+
 ## Tech Stack
 
 **Data Engineering & Analytics**
