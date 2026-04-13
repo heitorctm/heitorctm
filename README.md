@@ -53,7 +53,6 @@ To keep my GitHub organized, I use the following repository prefixes:
 
 Data platform and dashboards for photovoltaic plant monitoring. Built analytical layers with dbt (RAW → STG → INT → MART), documented business rules, and delivered real-time operational dashboards with Grafana and PostgreSQL.
 
-[dbt / transformations and documentation](https://github.com/heitorctmba/PROJ-05-nexus_grid_dbt) · [dashboards / analytical consumption](https://github.com/heitorctmba/PROJ-06-nexus_grid_dashboards)
 
 ### 🦴 Bone Age Estimation (X-Ray AI)
 End-to-end ML model for bone age estimation from wrist radiographs. Includes sex embedding for physiological differentiation, data augmentation, and validation with medical specialists. Research published at **CBIS 2024**.
