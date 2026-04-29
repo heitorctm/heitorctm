@@ -49,6 +49,9 @@ To keep my GitHub organized, I use the following repository prefixes:
 
 ## Featured Projects
 
+### 🏭 SAP B1 HANA Ingestion Pipeline
+Incremental data pipeline extracting SAP Business One (SAP HANA) tables into SQL Server. Implements the raw layer of a medallion architecture with five ingestion strategies, including composite watermark (UpdateDate+UpdateTS) for second-level precision, header-based line detection, idempotent append, upsert, and daily snapshots. Chunked reads via `stream_results` ensure memory-safe extraction of large tables.
+
 ### ☀️ Nexus Grid — Solar Energy Observability Platform
 
 Data platform and dashboards for photovoltaic plant monitoring. Built analytical layers with dbt (RAW → STG → INT → MART), documented business rules, and delivered real-time operational dashboards with Grafana and PostgreSQL.
