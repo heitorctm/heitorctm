@@ -49,8 +49,9 @@ To keep my GitHub organized, I use the following repository prefixes:
 
 ## Featured Projects
 
-### 🏭 SAP B1 HANA Ingestion Pipeline
-Incremental data pipeline extracting SAP Business One (SAP HANA) tables into SQL Server. Implements the raw layer of a medallion architecture with five ingestion strategies, including composite watermark (UpdateDate+UpdateTS) for second-level precision, header-based line detection, idempotent append, upsert, and daily snapshots. Chunked reads via `stream_results` ensure memory-safe extraction of large tables.
+### 🔄 Acme Data Pipeline — End-to-End ELT (SAP B1 → Power BI)
+End-to-end ELT pipeline (anonymized production project) that turns SAP Business One and SharePoint data into a tested, documented data warehouse on SQL Server. Four components: **DB-to-DB SAP ingestion** (linked server + SQL Server Agent, incremental strategies), a **two-way SharePoint connector** over Microsoft Graph, the **dbt warehouse** (medallion / Kimball, ~450 tests, Elementary observability), and **Airflow orchestration** with data-aware scheduling (Assets) on a single-slot pool — consistent naming and a unified audit log across the whole flow.
+🔗 [Repository](https://github.com/heitorctm/PROJ-07-acme_data_pipeline)
 
 ### ☀️ Nexus Grid — Solar Energy Observability Platform
 
