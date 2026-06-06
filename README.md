@@ -76,6 +76,7 @@ Technical lead on a burn classification system using SAM (Segment Anything Model
 
 | Period | Role | Company |
 |--------|------|---------|
+| Apr/2026 to Present | Analytics Engineer & Data Engineer | Self-employed (freelance) |
 | Oct/2025 to Mar/2026 | Analytics Engineer & Partner | Axionics |
 | Nov/2024 to Sep/2025 | Data / Analytics Engineer | M7 Investimentos |
 | Oct/2022 to Oct/2024 | ML Engineer & Researcher | VORTEX, UNIFOR |
