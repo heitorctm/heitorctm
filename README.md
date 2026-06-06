@@ -5,8 +5,6 @@ Fortaleza, CE, Brasil
 
 From Civil Engineering to Data & AI, I design end-to-end data solutions: from raw ingestion and analytical modeling to machine learning, LLM integrations, and real-time dashboards.
 
-Currently building data platforms at **Axionics** and pursuing an **MBA in Data Science at UNIFOR**.
-
 ---
 
 ## Repository Prefixes
