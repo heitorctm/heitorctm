@@ -48,7 +48,7 @@ To keep my GitHub organized, I use the following repository prefixes:
 ## Featured Projects
 
 ### 🔄 Acme Data Pipeline — End-to-End ELT (SAP B1 → Power BI)
-End-to-end ELT pipeline (anonymized production project) that turns SAP Business One and SharePoint data into a tested, documented data warehouse on SQL Server. Four components: **DB-to-DB SAP ingestion** (linked server + SQL Server Agent, incremental strategies), a **two-way SharePoint connector** over Microsoft Graph, the **dbt warehouse** (medallion / Kimball, ~450 tests, Elementary observability), and **Airflow orchestration** with data-aware scheduling (Assets) on a single-slot pool — consistent naming and a unified audit log across the whole flow.
+End-to-end ELT pipeline (anonymized production project) that turns SAP Business One and SharePoint data into a tested, documented data warehouse on SQL Server. Four components: **DB-to-DB SAP ingestion** (linked server + SQL Server Agent, incremental strategies), a **two-way SharePoint connector** over Microsoft Graph, the **dbt warehouse** (medallion / Kimball, ~450 tests, Elementary observability), and **Airflow orchestration**.
 🔗 [Repository](https://github.com/heitorctm/PROJ-07-acme_data_pipeline)
 
 ### ☀️ Nexus Grid — Solar Energy Observability Platform
